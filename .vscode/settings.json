@@ -1,1 +1,14 @@
-{}
+{
+    "tailwindCSS.experimental.configFile": "client/src/styles.css",
+    "tailwindCSS.includeLanguages": {
+        "angular": "html",
+        "angular-html": "html"
+    },
+    "files.associations": {
+        "*.css": "tailwindcss"
+    },
+    "editor.quickSuggestions": {
+        "strings": "on"
+    },
+    "tailwindCSS.suggestions": true
+}
